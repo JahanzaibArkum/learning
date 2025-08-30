@@ -14,6 +14,8 @@ text
 > Text that is quote
 use `git status` to check changes.
 
-- [x] Completed task
-- [y] Incomplete task
-- [ ] Another pending task
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+
+- [ ] Add delight to the experience when all tasks are complete
+:tada:
