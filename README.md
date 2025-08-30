@@ -12,3 +12,4 @@ This is a <sup>superscript</sup> text/t
 This is a <sub>subscript</sub>
 text
 > Text that is quote
+use `git status` to check changes.
