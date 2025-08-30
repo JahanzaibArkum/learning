@@ -8,3 +8,4 @@ This text is ~~strikethrough~~
 
 ## Next Steps
 More content here...
+This is a <sup>superscript</sup> text
